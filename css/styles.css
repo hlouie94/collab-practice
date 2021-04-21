@@ -2,3 +2,19 @@ body {
     margin: 0;
     padding: 0;
 }
+
+.nav {
+    background-color: tan;
+}
+
+#right {
+    background-color: cadetblue;
+}
+
+#left {
+    background-color: coral;
+}
+
+.footer {
+    background-color: darkgrey;
+}
